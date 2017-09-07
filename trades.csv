@@ -1,0 +1,9 @@
+remote_id,marketplace,product,buy,volume (shares),price (usd),fee (usd),total (usd),created_at,notes
+ACH,coinbase,ETH-USD,1,1,400,1,399,2017-01-01 00:00:00 UTC,initial basis
+ACH,coinbase,ETH-USD,1,1,300,1,299,2017-01-01 00:00:01 UTC,initial basis
+,,,,,,,,,
+1,gdax,ETH-USD,0,0.57,353.17,0.6039,200.703,2017-06-19 02:10:18 UTC,Buying $200 worth in ANS/BTC market via ETH funding
+2,gdax,BTC-USD,1,0.07961105,2514.72,0.5005,199.671212,2017-06-19 02:10:39 UTC,
+,,,,,,,,,
+3,bittrex,BTC-USD,0,0.07961105,2516,0,200.3014018,2017-06-19 02:15:40 UTC,“virtual” sell at market rate
+3,bittrex,ANS-USD,1,33.1882933939384,6.0353028528,0,200.3014018,2017-06-19 02:15:40 UTC,
